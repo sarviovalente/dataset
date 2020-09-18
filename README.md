@@ -1,1 +1,1 @@
-# Aqui estão alguns conjuntos de dados (datasets) de SIG, Machine Leraning, Agricultura de Precisão, dentre outros.
+# Aqui estão alguns datasets de SIG, Machine Learning, Agricultura de Precisão, dentre outros.
